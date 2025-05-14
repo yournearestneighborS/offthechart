@@ -1,0 +1,96 @@
+song_title,artist,simplified_genre,vader_sentiment,textblob_sentiment,sentiment_label
+We Belong Together,Mariah Carey,Holiday,-0.9733,0.02099944629014396,negative
+Don't Cha,The Pussycat Dolls Featuring Busta Rhymes,Pop,0.9987,0.1450827384421135,positive
+Pon de Replay,Rihanna,Pop,0.981,0.23403540903540898,positive
+Let Me Hold You,Bow Wow Featuring Omarion,R&B,0.1015,0.07475396825396823,positive
+You And Me,Lifehouse,Rock,0.9161,0.1275545634920635,positive
+Shake It Off,Mariah Carey,Holiday,0.9809,0.2255952380952381,positive
+Behind These Hazel Eyes,Kelly Clarkson,Holiday,-0.9934,-0.16473922902494328,negative
+Listen To Your Heart,D.H.T.,Dance,0.9811,0.28035714285714286,positive
+Lose Control,Missy Elliott Featuring Ciara & Fat Man Scoop,Hip-Hop,0.9943,0.06940628815628815,positive
+Pimpin' All Over The World,Ludacris Featuring Bobby Valentino,Hip-Hop,0.9981,0.13860455201364286,positive
+Hollaback Girl,Gwen Stefani,Pop,-0.9987,-0.1444150499706056,negative
+Like You,Bow Wow Featuring Ciara,R&B,0.9982,0.19317664317664315,positive
+Get It Poppin',Fat Joe Featuring Nelly,Hip-Hop,-0.9818,-0.25229591836734694,negative
+Beverly Hills,Weezer,Rock,0.9842,0.2065530303030303,positive
+Feel Good Inc,Gorillaz,Alternative,0.9991,0.4047741566609489,positive
+Cater 2 U,Destiny's Child,Pop,0.994,0.14288359788359792,positive
+These Words,Natasha Bedingfield,Pop,0.9999,0.38567374978665314,positive
+Cool,Gwen Stefani,Pop,0.9909,0.216409632034632,positive
+"Sugar, We're Goin' Down",Fall Out Boy,Pop,-0.9729,-0.18019323671497578,negative
+Just The Girl,The Click Five,Pop,-0.9218,0.054000000000000006,negative
+Holiday,Green Day,Pop,-0.982,-0.07561728395061729,negative
+Scars,Papa Roach,Hip-Hop,-0.7124,-0.04212962962962964,negative
+Grind With Me,Pretty Ricky,R&B,0.9989,-0.05325193325193326,positive
+Best Of You,Foo Fighters,Rock,0.9997,0.7182570459843188,positive
+Play,David Banner,Hip-Hop,0.9812,-0.00858686067019403,positive
+Back Then,Mike Jones,Hip-Hop,-0.9543,0.0788163163163163,negative
+Since U Been Gone,Kelly Clarkson,Holiday,0.9971,0.16875,positive
+Mississippi Girl,Faith Hill,Country,0.9934,-0.03815789473684211,positive
+Gold Digger,Kanye West Featuring Jamie Foxx,Hip-Hop,0.8997,-0.01048280423280424,positive
+As Good As I Once Was,Toby Keith,Country,-0.7645,0.17613851095993954,negative
+Speed Of Sound,Coldplay,Alternative,-0.0644,0.19238095238095235,negative
+Just A Lil Bit,50 Cent,Hip-Hop,0.8574,0.014461966604823745,positive
+Make Her Feel Good,Teairra Mari,R&B,0.937,0.22855392156862747,positive
+Switch,Will Smith,Hip-Hop,0.9421,0.054494227994228005,positive
+Mr. Brightside,The Killers,Rock,0.5343,-0.08527336860670195,positive
+Lonely No More,Rob Thomas,Pop,0.9982,0.01901041666666667,positive
+Something More,Sugarland,Country,0.9903,0.16610119047619043,positive
+Badd,Ying Yang Twins Featuring Mike Jones & Mr. ColliPark,Hip-Hop,-0.9989,0.10516651104886396,negative
+Oh,Ciara Featuring Ludacris,R&B,0.25,-0.009890572390572405,positive
+La Tortura,Shakira Feat. Alejandro Sanz,Pop,-0.91,0.25,negative
+Collide,Howie Day,Rock,-0.3453,0.10666666666666666,negative
+Outta Control (Remix),50 Cent Feat. Mobb Deep,Hip-Hop,0.9481,0.022694289837146973,positive
+Let Me Go,3 Doors Down,Rock,0.9982,0.3324404761904762,positive
+Must Be Nice,Lyfe Jennings,R&B,0.9937,0.34177489177489173,positive
+How To Deal,Frankie J,R&B,0.9739,0.07575757575757577,positive
+Free Yourself,Fantasia,R&B,0.9716,0.2037037037037038,positive
+Wake Me Up When September Ends,Green Day,Pop,0.8375,0.25833333333333336,positive
+Summer Nights,Lil Rob,Hip-Hop,0.996,0.23444940476190473,positive
+These Boots Are Made For Walkin',Jessica Simpson,Pop,0.9875,0.22188805346700083,positive
+A Real Fine Place To Start,Sara Evans,Christian,0.9663,0.2809682539682539,positive
+Breathe (2 AM),Anna Nalick,Pop,0.793,0.06288515406162465,positive
+Give Me That,Webbie Featuring Bun B,Hip-Hop,0.8684,-0.042388002209430786,positive
+Right Here,Staind,Rock,-0.2741,0.2617647058823529,negative
+This Is How A Heart Breaks,Rob Thomas,Pop,0.9852,-0.014448051948051948,positive
+Seasons Of Love,Cast Of Rent,Other,0.9987,0.4782608695652174,positive
+Your Body,Pretty Ricky,R&B,0.999,0.049952945605119516,positive
+Fast Cars And Freedom,Rascal Flatts,Country,0.9963,0.06591836734693879,positive
+Chariot,Gavin DeGraw,Pop,0.9915,0.2074074074074074,positive
+Do You Want Fries With That,Tim McGraw,Country,0.9918,0.059870898332436785,positive
+Inside Your Heaven,Carrie Underwood,Country,0.9722,0.1481962481962482,positive
+Gotta Getcha,Jermaine Dupri,Hip-Hop,0.9665,0.033785103785103784,positive
+Incomplete,Backstreet Boys,Pop,0.6313,-0.05699404761904761,positive
+Alcohol,Brad Paisley,Country,0.9749,0.15483471074380165,positive
+And Then What,Young Jeezy Featuring Mannie Fresh,Hip-Hop,0.975,0.18488355780022447,positive
+Tell Me,Bobby Valentino,R&B,-0.9185,0.1545918367346939,negative
+So Seductive,Tony Yayo Featuring 50 Cent,Hip-Hop,0.9278,0.038817618695667466,positive
+Play Something Country,Brooks & Dunn,Country,0.9911,-0.029783950617283957,positive
+Welcome To Jamrock,"Damian ""Jr. Gong"" Marley",Dance,-0.5656,0.22561885865457293,negative
+Axel F,Crazy Frog,Dance,-0.9081,-0.4428571428571429,negative
+Helena (So Long & Goodnight),My Chemical Romance,Pop,0.8884,0.008823529411764721,positive
+Help Somebody,Van Zant,Rock,0.8593,0.13442355098605097,positive
+Don't Worry 'Bout A Thing,SHeDAISY,Country,0.9908,0.2402350427350427,positive
+Making Memories Of Us,Keith Urban,Country,0.9962,0.04625668449197862,positive
+Charlie Last Name: Wilson,Charlie Wilson,Other,0.9986,0.30638692115964844,positive
+Belly Dancer (Bananza),Akon,Hip-Hop,0.9889,-0.13622519841269845,positive
+Dirty Little Secret,The All-American Rejects,Pop,-0.9961,-0.32454974271012005,negative
+B.Y.O.B.,System Of A Down,Hip-Hop,-0.9889,-0.09053030303030302,negative
+Redneck Yacht Club,Craig Morgan,Country,0.969,0.10841269841269845,positive
+Dem Boyz,Boyz N Da Hood,Hip-Hop,-0.9847,-0.04502645502645501,negative
+Something To Be Proud Of,Montgomery Gentry,Country,0.9941,0.26546474057343633,positive
+Somebody's Hero,Jamie O'Neal,Country,0.9975,0.09809351276742583,positive
+Diamonds From Sierra Leone,Kanye West,Hip-Hop,0.9287,0.1118763695152584,positive
+All Jacked Up,Gretchen Wilson,Country,-0.4063,0.10773809523809526,negative
+Naked,Marques Houston,R&B,0.9927,0.11238977072310405,positive
+Nada Es Para Siempre,Luis Fonsi,Latin,0.7351,0.0,positive
+Dreams,The Game,Hip-Hop,0.9985,0.12318840579710146,positive
+Run It!,Chris Brown,R&B,0.9982,0.05525426219870665,positive
+Playa's Only,R. Kelly Featuring The Game,R&B,-0.961,-0.082185746352413,negative
+Hicktown,Jason Aldean,Country,0.9949,-0.04905372405372407,positive
+All These Things That I've Done,The Killers,Rock,0.9768,-0.00666666666666668,positive
+Georgia Rain,Trisha Yearwood,Country,0.886,0.15,positive
+I Can't Stop Loving You,Kem,R&B,0.9893,0.2878787878787879,positive
+Sittin' Sidewayz,Paul Wall Featuring Big Pokey,Hip-Hop,-0.975,-0.07901785714285714,negative
+Gotta Make It,Trey Songz Featuring Twista,R&B,0.995,0.2543386243386243,positive
+I'm Sprung,T-Pain,Hip-Hop,-0.8252,-0.07383040935672514,negative

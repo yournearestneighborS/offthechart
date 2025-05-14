@@ -1,0 +1,95 @@
+song_title,artist,simplified_genre,vader_sentiment,textblob_sentiment,sentiment_label
+The Power Of Love,Huey Lewis & The News,Rock,0.9977,0.12506105006105006,positive
+St. Elmo's Fire (Man In Motion),John Parr,Jazz,-0.9773,0.05405483405483406,negative
+Freeway Of Love,Aretha Franklin,Soul,0.9998,0.2587864250177683,positive
+We Don't Need Another Hero (Thunderdome),Tina Turner,R&B,-0.7329,0.06999999999999999,negative
+Summer Of '69,Bryan Adams,Rock,0.9878,0.14773391812865497,positive
+Shout,Tears For Fears,Pop,0.9851,0.19213184476342374,positive
+Never Surrender,Corey Hart,Pop,-0.9466,0.051910640799529666,negative
+Cherish,Kool & The Gang,Disco,0.9998,0.3164842873176206,positive
+You're Only Human (Second Wind),Billy Joel,Rock,0.9592,0.030034722222222223,positive
+Money For Nothing,Dire Straits,Rock,0.9985,0.32651515151515165,positive
+Don't Lose My Number,Phil Collins,Rock,-0.9923,-0.009990662931839416,negative
+Invincible (Theme From The Legend Of Billie Jean),Pat Benatar,Rock,-0.8638,0.19857142857142857,negative
+Pop Life,Prince And The Revolution,Rock,-0.524,0.1902777777777778,negative
+Freedom,Wham!,Holiday,0.9968,0.07497439836149511,positive
+What About Love?,Heart,Rock,0.9991,0.34214852607709745,positive
+Dare Me,The Pointer Sisters,Disco,0.9973,0.1804531490015361,positive
+Smokin' In The Boys Room,Motley Crue,Rock,0.7615,0.20493827160493827,positive
+If You Love Somebody Set Them Free,Sting,Hip-Hop,0.9999,0.39552819865319794,positive
+Everytime You Go Away,Paul Young,Pop,-0.3733,0.11250000000000002,negative
+Life In One Day,Howard Jones,Pop,0.96,0.10940988835725678,positive
+Who's Holding Donna Now,Debarge,Other,0.9016,0.21529304029304028,positive
+You Spin Me Round (Like A Record),Dead Or Alive,Pop,0.9977,0.02916666666666666,positive
+Dress You Up,Madonna,Pop,0.9997,0.40477855477855473,positive
+Mystery Lady,Billy Ocean,Pop,0.9986,0.23999999999999996,positive
+Shame,The Motels,Other,-0.9988,-0.17232142857142857,negative
+Oh Sheila,Ready For The World,R&B,0.9967,0.27713464696223317,positive
+There Must Be An Angel,Eurythmics,Pop,0.9337,0.08750000000000001,positive
+Take On Me,a-ha,Rock,-0.9144,-0.221875,negative
+Cry,Godley & Creme,Pop,-0.9883,0.1,negative
+Lonely Ol' Night,John Mellencamp,Rock,-0.9616,-0.1267857142857143,negative
+Saving All My Love For You,Whitney Houston,Pop,0.9986,0.270999743983615,positive
+Glory Days,Bruce Springsteen,Rock,0.9997,-0.011005747126436786,positive
+Rock Me Tonight,Freddie Jackson,Soul,0.9875,0.24612193362193355,positive
+State Of the Heart,Rick Springfield,Rock,-0.311,-0.04733796296296297,negative
+When Your Heart Is Weak,Cock Robin,Pop,0.9804,0.07642273185751447,positive
+Live Every Moment,REO Speedwagon,Rock,0.9977,0.2578451178451179,positive
+Every Step Of The Way,John Waite,Rock,0.7192,0.20527950310559007,positive
+I Wonder If I Take You Home,Lisa Lisa And Cult Jam With Full Force,Other,0.9979,0.22552552552552554,positive
+C-I-T-Y,John Cafferty & The Beaver Brown Band,Rock,0.9777,-0.12956349206349205,positive
+No Lookin' Back,Michael McDonald,Other,-0.9836,-0.01889404246547104,negative
+Do You Want Crying,Katrina And The Waves,Pop,-0.9932,-0.10857142857142861,negative
+Fortress Around Your Heart,Sting,Hip-Hop,-0.9918,-0.01666666666666667,negative
+Spanish Eddie,Laura Branigan,Pop,0.6908,0.0396135265700483,positive
+I Got You Babe,UB40,Other,0.9603,0.011160714285714282,positive
+Get It On (Bang A Gong),The Power Station,Pop,0.9861,-0.043627450980392155,positive
+People Are People,Depeche Mode,Pop,-0.8771,-0.4850529100529102,negative
+Dancing In The Street,David Bowie & Mick Jagger,Rock,0.964,0.12398088023088026,positive
+Lovin' Every Minute Of It,Loverboy,Rock,0.991,0.263265306122449,positive
+Hangin' On A String,Loose Ends,R&B,0.8787,-0.17250000000000001,positive
+You Give Good Love,Whitney Houston,Pop,0.9998,0.5496527777777778,positive
+And We Danced,Hooters,Rock,0.9959,0.20052910052910053,positive
+First Night,Survivor,Rock,0.9954,0.2356349206349206,positive
+Wild And Crazy Love,Mary Jane Girls,Disco,0.9969,-0.019187675070028012,positive
+Be Near Me,ABC,Pop,0.9928,0.1402777777777777,positive
+Love And Pride,King,Hip-Hop,0.9984,0.30694444444444446,positive
+Down On Love,Foreigner,Rock,0.9993,0.19048257876382876,positive
+Lay It Down,Ratt,Rock,0.9773,-0.03793962029256151,positive
+Sunset Grill,Don Henley,Rock,0.9151,-0.005944444444444458,positive
+You Look Marvelous,Billy Crystal,Other,0.9995,0.41070987654320995,positive
+Tonight It's You,Cheap Trick,Pop,0.9811,0.32344619666048235,positive
+Sentimental Street,Night Ranger,Rock,0.9795,-0.04225589225589227,positive
+Jesse,Julian Lennon,Pop,-0.9433,0.06727272727272728,negative
+Summertime Girls,Y&T,Hip-Hop,0.8482,0.177124183006536,positive
+Looking Over My Shoulder,'Til Tuesday,Other,0.9062,0.09469696969696968,positive
+Raspberry Beret,Prince And The Revolution,Rock,-0.957,0.388105413105413,negative
+Dancin' In The Key Of Life,Steve Arrington,Disco,0.976,0.234375,positive
+A View To A Kill,Duran Duran,Pop,-0.9965,-0.08571428571428573,negative
+All Of Me For All Of You,9.9,Hip-Hop,0.9943,0.15333333333333338,positive
+Voices Carry,'Til Tuesday,Other,-0.8799,-0.10740740740740747,negative
+Wise Up,Amy Grant,Christian,0.9995,0.47663690476190457,positive
+Some People,Belouis Some,Pop,0.9956,0.42592592592592593,positive
+Rebels,Tom Petty And The Heartbreakers,Rock,-0.9745,-0.12203703703703708,negative
+Stir It Up,Patti LaBelle,Soul,-0.9901,-0.11425925925925927,negative
+Forever,Kenny Loggins,Rock,-0.4215,0.095,negative
+Not Enough Love In The World,Don Henley,Rock,0.9712,0.13245851370851372,positive
+In And Out Of Love,Bon Jovi,Rock,0.9992,0.34092160673793326,positive
+Power Of Love (You Are My Lady),Air Supply,Rock,0.9809,0.20639097744360907,positive
+The Search Is Over,Survivor,Rock,0.9893,0.17954545454545454,positive
+Running Back,Urgent,Other,0.981,0.16382978723404257,positive
+19,Paul Hardcastle,Jazz,-0.9983,0.08903508771929826,negative
+So In Love,Orchestral Manoeuvres In The Dark,Pop,0.9976,0.042222222222222223,positive
+Information,Eric Martin,Rock,0.9727,-0.1087962962962963,positive
+Stand By Me,Maurice White,Rock,0.9604,-0.011818181818181828,positive
+Test Of Time,The Romantics,Pop,-0.3658,-0.11474358974358975,negative
+Only For Love,Limahl,Pop,0.9976,0.20125313283208018,positive
+Sussudio,Phil Collins,Rock,0.9214,0.1714285714285714,positive
+Weird Science,Oingo Boingo,Other,0.9838,-0.2270089285714286,positive
+Through the Fire,Chaka Khan,R&B,-0.9455,0.20672877846790885,negative
+Just As I Am,Air Supply,Rock,0.9986,0.3488636363636364,positive
+Find A Way,Amy Grant,Christian,0.9993,0.19611111111111112,positive
+It's Getting Late,The Beach Boys,Pop,0.9672,-0.07251736111111112,positive
+Would I Lie To You?,Eurythmics,Pop,-0.9646,-0.05,negative
+Your Love Is King,Sade,Other,0.9978,0.25096153846153846,positive
+Call Me,Go West,Hip-Hop,-0.7695,0.10138888888888889,negative

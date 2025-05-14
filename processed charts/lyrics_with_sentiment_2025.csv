@@ -1,0 +1,100 @@
+song_title,artist,simplified_genre,vader_sentiment,textblob_sentiment,sentiment_label
+Luther,Kendrick Lamar & SZA,Hip-Hop,0.9697,0.23107638888888885,positive
+Die With A Smile,Lady Gaga & Bruno Mars,Pop,0.9725,0.05403439153439153,positive
+Ordinary,Alex Warren,Pop,-0.6988,-0.15231481481481482,negative
+Nokia,Drake,Hip-Hop,0.9962,0.05383722671458525,positive
+A Bar Song (Tipsy),Shaboozey,Country,0.8268,0.09851190476190476,positive
+Pink Pony Club,Chappell Roan,Pop,0.9938,0.010424710424710418,positive
+I'm The Problem,Morgan Wallen,Country,-0.9731,-0.2155982905982906,negative
+I Ain't Coming Back,Morgan Wallen & Post Malone,Country,-0.9946,-0.11111111111111112,negative
+Lose Control,Teddy Swims,Pop,0.9063,0.04173881673881676,positive
+Beautiful Things,Benson Boone,Pop,0.9883,0.3266666666666666,positive
+All The Way,BigXthaPlug Featuring Bailey Zimmerman,Hip-Hop,-0.4536,0.01392251815980629,negative
+Anxiety,Doechii,Hip-Hop,-0.9241,0.013804713804713806,negative
+Birds Of A Feather,Billie Eilish,Alternative,-0.9949,0.19347826086956518,negative
+Just In Case,Morgan Wallen,Country,-0.7827,0.21293859649122807,negative
+I Had Some Help,Post Malone Featuring Morgan Wallen,Hip-Hop,0.9934,-0.07205882352941177,positive
+APT.,ROSE & Bruno Mars,Pop,0.9916,-0.16999999999999998,positive
+Love Somebody,Morgan Wallen,Country,0.9983,0.24931457431457435,positive
+Mutt,Leon Thomas,R&B,-0.9399,-0.20247474747474747,negative
+Espresso,Sabrina Carpenter,Pop,0.9935,0.010962301587301593,positive
+That's So True,Gracie Abrams,Pop,0.9638,-0.04264193660745384,positive
+Not Like Us,Kendrick Lamar,Hip-Hop,0.9678,0.024951267056530207,positive
+Messy,Lola Young,R&B,-0.9981,-0.18178955453149,negative
+TV Off,Kendrick Lamar Featuring Lefty Gunplay,Hip-Hop,-0.9988,-0.11124423583662713,negative
+30 For 30,SZA With Kendrick Lamar,Hip-Hop,-0.9959,0.004030257936507927,negative
+Sports Car,Tate McRae,Pop,0.9915,0.029150132275132277,positive
+Abracadabra,Lady Gaga,Pop,-0.5951,0.05499999999999999,negative
+Squabble Up,Kendrick Lamar,Hip-Hop,-0.9927,0.06439511666784394,negative
+Stargazing,Myles Smith,Other,-0.9618,0.1877551020408163,negative
+No One Noticed,The Marias,Pop,-0.9919,0.09154351395730707,negative
+Bad Dreams,Teddy Swims,Pop,0.3202,-0.08385885885885884,positive
+I Never Lie,Zach Top,Country,0.8956,0.12638888888888888,positive
+Timeless,The Weeknd & Playboi Carti,R&B,0.9923,0.01878306878306877,positive
+Taste,Sabrina Carpenter,Pop,0.9589,0.06537698412698413,positive
+Sorry I'm Here For Someone Else,Benson Boone,Pop,0.9979,0.06298076923076924,positive
+Blue Strips,Jessie Murph,Alternative,0.9685,-0.17990404040404037,positive
+Worst Way,Riley Green,Country,-0.9736,-0.2215195105820106,negative
+Good News,Shaboozey,Country,0.4492,0.13189484126984127,positive
+Sailor Song,Gigi Perez,Alternative,-0.9672,-0.14417293233082704,negative
+Weren't For The Wind,Ella Langley,Country,-0.2698,0.02739898989898991,negative
+Hard Fought Hallelujah,Brandon Lake X Jelly Roll,Unknown,0.9996,-0.10248842592592593,positive
+I'm A Little Crazy,Morgan Wallen,Country,-0.9953,-0.39099867724867726,negative
+Azizam,Ed Sheeran,Pop,0.9591,-0.15272727272727274,positive
+Wildflower,Billie Eilish,Alternative,0.9985,0.19296874999999997,positive
+Cry For Me,The Weeknd,R&B,-0.9959,-0.08338744588744589,negative
+Dark Thoughts,Lil Tecca,Hip-Hop,-0.9962,-0.11969696969696968,negative
+Residuals,Chris Brown,R&B,0.9914,0.15109793588054457,positive
+Denial Is A River,Doechii,Hip-Hop,-0.5465,0.07253401360544219,negative
+DTMF,Bad Bunny,Hip-Hop,-0.9186,0.0,negative
+Indigo,Sam Barber Featuring Avery Anna,Country,0.9872,0.13571428571428573,positive
+Am I Okay?,Megan Moroney,Country,0.9992,0.33865079365079365,positive
+Back To Friends,sombr,Rock,0.9757,-0.13434744268077603,positive
+Me Jalo,Fuerza Regida & Grupo Frontera,Other,-0.296,0.15,negative
+Love Me Not,Ravyn Lenae,R&B,0.9712,-0.011666666666666683,positive
+Smile,Morgan Wallen,Country,0.9953,0.24611801242236025,positive
+Twilight Zone,Ariana Grande,Pop,-0.155,0.17467532467532468,negative
+Somebody Loves Me,PARTYNEXTDOOR & Drake,R&B,0.9981,0.08404195011337871,positive
+Undressed,sombr,Rock,-0.9206,-0.03542568542568544,negative
+Revolving Door,Tate McRae,Pop,-0.9776,0.14522417153996092,negative
+Baile Inolvidable,Bad Bunny,Hip-Hop,-0.9878,0.0,negative
+Rather Lie,Playboi Carti & The Weeknd,Hip-Hop,-0.8666,0.0037907268170426106,negative
+The Giver,Chappell Roan,Pop,0.9963,0.3208333333333333,positive
+Peekaboo,Kendrick Lamar Featuring AzChike,Hip-Hop,-0.9712,0.03504489337822671,negative
+BMF,SZA,Hip-Hop,0.9914,0.22984633569739943,positive
+Fix What You Didn't Break,Nate Smith,Country,-0.893,-0.057072829131652666,negative
+Holy Smokes,Bailey Zimmerman,Country,0.753,0.04783333333333333,positive
+Somethin' 'Bout A Woman,Thomas Rhett Featuring Teddy Swims,Pop,0.2723,0.22088888888888886,positive
+Te Queria Ver,Aleman X Neton Vega,Unknown,-0.4939,0.0,negative
+Friends Like That,John Morgan Featuring Jason Aldean,Country,0.9942,0.05772486772486773,positive
+Loco,Neton Vega,Other,-0.9825,0.0,negative
+Texas,Blake Shelton,Country,0.1824,0.395940170940171,positive
+Happen To Me,Russell Dickerson,Country,0.8301,0.046137566137566116,positive
+Your Way's Better,Forrest Frank,Christian,0.9975,0.3898611111111111,positive
+Backseat Driver,Kane Brown,Pop,0.9265,-0.08740421455938698,positive
+Busy Woman,Sabrina Carpenter,Pop,0.9976,0.15479290674603174,positive
+Are You Even Real,Teddy Swims & GIVEON,Pop,0.9905,0.33112244897959187,positive
+Ojos Tristes,"Selena Gomez, benny blanco & The Marias",Pop,0.9506,-0.3220238095238095,positive
+EOO,Bad Bunny,Hip-Hop,-0.9652,-0.3333333333333332,negative
+Steve's Lava Chicken,Jack Black,Rock,-0.0516,-0.11666666666666665,negative
+The Largest,BigXthaPlug,Hip-Hop,-0.9875,0.06560245310245309,negative
+No Pole,Don Toliver,Hip-Hop,0.9583,0.011212861212861214,positive
+Feel It,d4vd,Alternative,0.9878,0.038888888888888896,positive
+Die Trying,"PARTYNEXTDOOR, Drake & Yebba",R&B,0.982,0.06291643139469227,positive
+Like Him,"Tyler, The Creator Featuring Lola Young",Hip-Hop,0.9352,-0.09772727272727272,positive
+Morena,Neton Vega & Peso Pluma,Other,-0.8591,0.0,negative
+Haunted,Kane Brown With Jelly Roll,Pop,-0.997,0.17094594594594592,negative
+Gimme A Hug,Drake,Hip-Hop,0.9154,-0.02374620060790275,positive
+Headphones On,Addison Rae,Pop,0.9928,0.3053030303030303,positive
+End Of The World,Miley Cyrus,Pop,0.8396,0.16333333333333333,positive
+Whiskey Drink,Jason Aldean,Country,0.9716,0.11720634920634922,positive
+Call Me When You Break Up,"Selena Gomez, benny blanco & Gracie Abrams",Pop,-0.929,-0.0890747755331089,negative
+Forever To Me,Cole Swindell,Country,0.9933,0.1520292207792208,positive
+Chest Pain (I Love),Malcolm Todd,Alternative,0.9991,0.37079889807162536,positive
+Nuevayol,Bad Bunny,Hip-Hop,-0.743,0.12666666666666676,negative
+Party 4 U,Charli xcx,Pop,1.0,0.12003484320557489,positive
+Actin Up,Tommy Richman,Hip-Hop,-0.9503,-0.14547859547859554,negative
+Tattoo,Tito Double P,Other,-0.9666,-0.2,negative
+House Again,Hudson Westbrook,Country,-0.9552,0.029720279720279727,negative
+like JENNIE,JENNIE,Pop,0.9693,0.05824829931972787,positive
+Caramel,Sleep Token,Metal,-0.8848,0.09128401360544218,negative

@@ -1,0 +1,90 @@
+song_title,artist,simplified_genre,vader_sentiment,textblob_sentiment,sentiment_label
+I Got You Babe,Sonny & Cher,Pop,0.969,0.04876373626373624,positive
+Help!,The Beatles,Rock,0.9944,-0.027450980392156866,positive
+California Girls,The Beach Boys,Pop,0.9948,0.20404040404040405,positive
+Unchained Melody,The Righteous Brothers,Pop,0.9879,0.13999999999999999,positive
+It's The Same Old Song,Four Tops,Soul,0.9979,0.15454545454545449,positive
+Like A Rolling Stone,Bob Dylan,Rock,-0.6614,0.1694394685773996,negative
+Save Your Heart For Me,Gary Lewis And The Playboys,Rock,0.9943,0.11753246753246753,positive
+"Hold Me, Thrill Me, Kiss Me",Mel Carter,Pop,0.9969,0.10934343434343434,positive
+Down In The Boondocks,Billy Joe Royal,Soul,0.9703,-0.0290824915824916,positive
+Papa's Got A Brand New Bag (Part I),James Brown And The Famous Flames,R&B,0.9587,0.35817263544536276,positive
+"Baby, I'm Yours",Barbara Lewis,Pop,-0.7579,-0.020238095238095225,negative
+You Were On My Mind,We Five,Rock,-0.9648,-0.15555555555555559,negative
+Nothing But Heartaches,The Supremes,Soul,0.9982,0.26041666666666663,positive
+Don't Just Stand There,Patty Duke,Other,0.9327,-0.06737528344671202,positive
+All I Really Want To Do,Cher,Soul,0.978,0.02777777777777777,positive
+(I Can't Get No) Satisfaction,The Rolling Stones,Rock,0.9218,-0.018181818181818184,positive
+Since I Lost My Baby,The Temptations,Soul,-0.9683,-0.05330387205387205,negative
+What's New Pussycat?,Tom Jones,Pop,0.9919,0.1977840909090909,positive
+The Tracks Of My Tears,The Miracles,Soul,0.9963,0.29594907407407406,positive
+It Ain't Me Babe,The Turtles,Rock,-0.9921,0.1375826719576719,negative
+I'm A Fool,"Dino, Desi & Billy",Pop,-0.575,-0.06944444444444443,negative
+In The Midnight Hour,Wilson Pickett,Soul,0.987,0.2955026455026455,positive
+Heart Full Of Soul,The Yardbirds,Rock,-0.8443,-0.038214285714285715,negative
+Ju Ju Hand,Sam The Sham and the Pharaohs,Rock,0.994,0.13020833333333334,positive
+Eve Of Destruction,Barry McGuire,Rock,-0.9945,-0.21875,negative
+Looking Through The Eyes Of Love,Gene Pitney,Pop,0.999,0.3822109988776656,positive
+Houston,Dean Martin,Holiday,0.6249,-0.03162393162393162,positive
+Take Me Back,Little Anthony And The Imperials,Pop,-0.8968,0.02566844919786096,negative
+Action,Freddy Cannon,Pop,0.9717,0.07618312757201649,positive
+Shake And Fingerpop,Jr. Walker & The All Stars,Soul,-0.8126,0.01714285714285717,negative
+"Sunshine, Lollipops And Rainbows",Lesley Gore,Pop,0.9973,0.54375,positive
+You'd Better Come Home,Petula Clark,Pop,-0.7707,0.2762132604237868,negative
+I Want Candy,The Strangeloves,Rock,0.1211,0.07013888888888889,positive
+Sugar Dumpling,Sam Cooke,Soul,0.9966,0.24821428571428575,positive
+You Tell Me Why,The Beau Brummels,Pop,0.6179,0.26885521885521885,positive
+I Like It Like That,The Dave Clark Five,Rock,0.9678,-0.08310185185185186,positive
+"Cara, Mia",Jay & The Americans,Pop,-0.9774,0.22499999999999998,negative
+Agent Double-O-Soul,Edwin Starr,Soul,0.842,-0.032594627594627605,positive
+Catch Us If You Can,The Dave Clark Five,Rock,-0.235,-0.15,negative
+We Gotta Get Out Of This Place,The Animals,Rock,0.9866,0.06468253968253967,positive
+"Sad, Sad Girl",Barbara Mason,Soul,-0.9969,-0.3446428571428572,negative
+Who'll Be The Next In Line,The Kinks,Pop,0.9393,0.15217391304347827,positive
+Summer Nights,Marianne Faithfull,Pop,0.9665,0.08502886002886002,positive
+All I Really Want To Do,The Byrds,Rock,0.9469,-0.06913580246913582,positive
+A Little You,Freddie And The Dreamers,Pop,-0.561,-0.06458333333333333,negative
+Hang On Sloopy,The McCoys,Pop,0.9909,0.03617604617604617,positive
+You've Been In Love Too Long,Martha & The Vandellas,Soul,0.8294,0.17335714285714285,positive
+I'll Always Love You,The Spinners,Soul,0.9978,0.06086956521739131,positive
+Laugh At Me,Sonny,Dance,-0.5897,-0.11607142857142859,negative
+It's Gonna Take A Miracle,The Royalettes,Pop,0.9984,0.06864295125164688,positive
+If I Didn't Love You,Chuck Jackson,Pop,-0.9961,0.39107142857142857,negative
+I'm A Happy Man,The Jive Five,Pop,0.9999,0.7201388888888878,positive
+I'll Take You Where The Music's Playing,The Drifters,Pop,0.9111,-0.08350340136054421,positive
+Ride Your Pony,Lee Dorsey,Soul,-0.2023,0.1141655844155844,negative
+Baby Don't Go,Sonny & Cher,Pop,0.555,0.012719298245614024,positive
+Annie Fanny,The Kingsmen,Rock,0.9941,0.2945175438596491,positive
+Hung On You,The Righteous Brothers,Pop,0.8405,0.10492424242424243,positive
+Candy,The Astors,Soul,0.9719,0.26341991341991344,positive
+First I Look At The Purse,The Contours,Soul,0.9899,0.17395833333333335,positive
+Moonlight And Roses (Bring Mem'ries Of You),Vic Dana,Other,0.9764,0.5142857142857142,positive
+Danger Heartbreak Dead Ahead,The Marvelettes,Pop,-0.9982,-0.007142857142857137,negative
+I'll Make All Your Dreams Come True,Ronnie Dove,Country,0.981,0.11714285714285715,positive
+Give All Your Love To Me,Gerry And The Pacemakers,Pop,0.9847,0.32592592592592595,positive
+Just You,Sonny & Cher,Pop,0.9127,-0.0788011988011988,positive
+Ride Away,Roy Orbison,Rock,-0.9239,-0.09687499999999999,negative
+No Pity (In The Naked City),Jackie Wilson,Soul,0.9946,0.03084035847193743,positive
+I Need You,The Impressions,Pop,-0.9848,0.3560606060606061,negative
+Colours,Donovan,Other,0.9943,0.6124999999999999,positive
+You've Got Your Troubles,The Fortunes,Christian,0.5552,0.23750000000000002,positive
+Summer Wind,Wayne Newton,Other,0.5975,0.06439393939393939,positive
+Do You Believe In Magic,The Lovin' Spoonful,Rock,0.9872,0.3034832451499118,positive
+With These Hands,Tom Jones,Pop,-0.6717,-0.028571428571428564,negative
+I'm Yours,Elvis Presley,Rock,0.987,0.03575757575757576,positive
+Is It Really Over?,Jim Reeves,Christian,0.8118,0.28125,positive
+Only Those In Love,Baby Washington,Pop,0.9892,0.24055397727272726,positive
+Mohair Sam,Charlie Rich,Country,0.9534,0.204320987654321,positive
+"Liar, Liar",The Castaways,Rock,-0.9953,-0.14407894736842106,negative
+If You Wait For Love,Bobby Goldsboro,Country,0.9867,0.16625,positive
+Home Of The Brave,Jody Miller,Country,0.9859,0.17911324786324792,positive
+Heartaches By The Number,Johnny Tillotson,Pop,0.6533,0.30000000000000004,positive
+Someone Is Watching,Solomon Burke,Soul,0.8792,0.28750000000000003,positive
+I Want To (Do Everything For You),Joe Tex,Soul,0.9997,0.4290254884004884,positive
+What Are We Going To Do?,David Jones,Rock,0.9967,0.3458333333333333,positive
+Home Of The Brave,Bonnie & The Treasures,Pop,0.9096,0.0969982078853047,positive
+Good Times,Gene Chandler,Pop,0.9859,0.22249999999999998,positive
+Too Hot To Hold,Major Lance,Soul,0.9848,0.13921768707482995,positive
+The World Through A Tear,Neil Sedaka,Pop,-0.8675,-0.06888888888888887,negative
+High Heel Sneakers,Stevie Wonder,Soul,0.9942,0.22,positive
+These Hands (Small But Mighty),Bobby Bland,Soul,0.9836,0.17500000000000002,positive
